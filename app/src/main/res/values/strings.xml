@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="take_photo">Ambil foto</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisa</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_failed">Gagal dalam mengklasifikasikan gambar</string>
+
+</resources>
